@@ -1,4 +1,4 @@
-name: Generate Podcast Feeds
+name: AshanPodcastFeedGen
 
 on: [push]
 
